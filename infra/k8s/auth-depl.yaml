@@ -14,7 +14,7 @@ spec:
       spec:
          containers:
             - name: auth
-              image: anandu777/auth:latest
+              image: anandu777/auth
 ---
 apiVersion: v1
 kind: Service
